@@ -13,7 +13,7 @@ window.onload = function() {
   // Aumentamos la distancia velocidad de movimiento
   var distancia = 10;
   // Definimos el objeto
-  var obj = { height: 10, width: 10, x: 10, y: 10, color: "#000" };
+  var obj = { height: 10, width: 10, x: 10, y: 10, color: "#00FF00" };
   // Mostramos el objeto
   render();
 
